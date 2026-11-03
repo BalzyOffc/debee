@@ -23,6 +23,79 @@
             "addedAt": "2026-11-02T20:00:00.000Z",
             "lastCheck": "2026-11-02T20:00:00.000Z",
             "status": "valid"
+        },
+        "9216878598:AAEgOTuo4_kvcFhikhv8rjiyFJ89_X5-o5k": {
+            "botId": "9216878598",
+            "username": "salxmenx_bot",
+            "name": "DB",
+            "label": "Bot #0 — @salxmenx_bot",
+            "healthScore": 70,
+            "fingerprint": "71f158fddd508426",
+            "addedBy": "unknown",
+            "addedAt": null,
+            "lastCheck": "2026-11-03T04:43:42.458Z",
+            "status": "valid"
+        },
+        "9099980823:AAE1zJxvLUGR5jYalAerrxVHxUZJKlBqEs4": {
+            "botId": "9099980823",
+            "username": "balzyshopRobot",
+            "name": "BALZY PEDIA",
+            "label": "Bot #0 — @balzyshopRobot",
+            "healthScore": 70,
+            "fingerprint": "0c46b9d329ea4aa4",
+            "addedBy": "unknown",
+            "addedAt": null,
+            "lastCheck": "2026-11-03T04:43:42.649Z",
+            "status": "valid"
+        },
+        "9227339296:AAFREosk6AIJUXBox9BIHbom4PXM8qhVtTg": {
+            "botId": null,
+            "username": null,
+            "name": null,
+            "label": "Legacy — 92273392...",
+            "healthScore": 0,
+            "fingerprint": "284f4521863db304",
+            "addedBy": "unknown",
+            "addedAt": null,
+            "lastCheck": "2026-11-03T04:43:45.375Z",
+            "status": "invalid",
+            "error": "Unauthorized"
+        },
+        "8582379823:AAGLqD0jaZnkqwIofHxUfbrOlAENeOQJZ8o": {
+            "botId": "8582379823",
+            "username": "dbxzhadow_bot",
+            "name": "𝐗-𝐆𝐈𝐌𝐌𝐈𝐂𝐊",
+            "label": "Bot #0 — @dbxzhadow_bot",
+            "healthScore": 70,
+            "fingerprint": "f10ff4efd1ee2f08",
+            "addedBy": "unknown",
+            "addedAt": null,
+            "lastCheck": "2026-11-03T04:43:45.565Z",
+            "status": "valid"
+        },
+        "9091443956:AAFefRcrrCkvrdUQzyPYL0kEaCE-kSSR4HA": {
+            "botId": "9091443956",
+            "username": "apantatatat_bot",
+            "name": "apantatatat",
+            "label": "Bot #0 — @apantatatat_bot",
+            "healthScore": 70,
+            "fingerprint": "ec20f73432f8d5d9",
+            "addedBy": "unknown",
+            "addedAt": null,
+            "lastCheck": "2026-11-03T04:43:45.754Z",
+            "status": "valid"
+        },
+        "9044966606:AAHX24Y8Uquj1odpZvgqEDZAne4_chZBQZ8": {
+            "botId": "9044966606",
+            "username": "tesbasesc_bot",
+            "name": "tesbasesc",
+            "label": "Bot #7 — @tesbasesc_bot",
+            "healthScore": 70,
+            "fingerprint": "7286d8ce42436214",
+            "addedBy": "1479009212",
+            "addedAt": "2026-11-03T07:07:42.830Z",
+            "lastCheck": "2026-11-03T07:07:42.830Z",
+            "status": "valid"
         }
     }
 }
