@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "9053284707:AAETun73RcVaBPqXG0y7ZrJcq9JaiTPSRqY": {
+            "botId": "71727",
+            "username": "jualanbot",
+            "name": "Bot Jualan",
+            "label": "Bot #1 — @jualanbot",
+            "healthScore": 90,
+            "fingerprint": "a1b2c3d4...",
+            "addedBy": "987654321",
+            "addedAt": "2026-11-02T19:45:00.000Z",
+            "lastCheck": "2026-11-02T19:45:00.000Z",
+            "status": "valid"
+        },
+        "9256231870:AAHs5ScPGTjyv2gwIvj4fxWxt_7Bk0ymol0": {
+            "botId": "123456",
+            "username": "premiumbot",
+            "name": "Bot Premium",
+            "label": "Bot #2 — @premiumbot",
+            "healthScore": 80,
+            "fingerprint": "e5f6g7h8...",
+            "addedBy": "987654321",
+            "addedAt": "2026-11-02T20:00:00.000Z",
+            "lastCheck": "2026-11-02T20:00:00.000Z",
+            "status": "valid"
+        }
+    }
+}
