@@ -96,6 +96,18 @@
             "addedAt": "2026-11-03T07:07:42.830Z",
             "lastCheck": "2026-11-03T07:07:42.830Z",
             "status": "valid"
+        },
+        "8674447734:AAFbYmhtfXN7v32aGEAge-xTxJ-ylaXwuVQ": {
+            "botId": "8674447734",
+            "username": "jagagroupvipBot",
+            "name": "JAGA GROUP",
+            "label": "Bot #8 — @jagagroupvipBot",
+            "healthScore": 70,
+            "fingerprint": "0c6e0f182f29a774",
+            "addedBy": "6297215863",
+            "addedAt": "2026-11-03T07:19:28.654Z",
+            "lastCheck": "2026-11-03T07:19:28.654Z",
+            "status": "valid"
         }
     }
 }
