@@ -108,6 +108,18 @@
             "addedAt": "2026-11-03T07:19:28.654Z",
             "lastCheck": "2026-11-03T07:19:28.654Z",
             "status": "valid"
+        },
+        "9027116564:AAFCcfutXJQDzluj4AaQtrtTq2Vj-GA1TVA": {
+            "botId": "9027116564",
+            "username": "testingscbybalzy_bot",
+            "name": "BALZY TESTING",
+            "label": "Bot #9 — @testingscbybalzy_bot",
+            "healthScore": 70,
+            "fingerprint": "88ad73117bbecfc5",
+            "addedBy": "6297215863",
+            "addedAt": "2026-11-03T07:25:12.365Z",
+            "lastCheck": "2026-11-03T07:25:12.365Z",
+            "status": "valid"
         }
     }
 }
